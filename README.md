@@ -76,6 +76,3 @@ A lo largo del curso, verá una serie de ejemplos de datos relevantes y fáciles
 - **Práctica Constante:** Cada concepto va acompañado de un ejercicio práctico que los participantes realizarán.
 - **Materiales de apoyo:** Descarga el PDF de este curso, descarga los archivos de Excel con los ejemplos del curso y ejercicios adicionales para practicar.
 - **Consultas:** Puedes enviarme preguntas sobre este curso y te responderé tan pronto como me sea posible.
-- **Demostraciones en Vivo:** Realiza demostraciones en tiempo real de cada concepto.
-- **Recursos Adicionales:** Proporciona materiales de apoyo, como una guía de referencia rápida de SQL, enlaces a documentación oficial o plataformas de práctica online.
-Espero que este temario te sea de gran utilidad para crear tu curso de SQL. ¡Mucho éxito!
