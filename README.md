@@ -9,7 +9,7 @@ A lo largo del curso, verá una serie de ejemplos de datos relevantes y fáciles
 
 ### MÓDULO 1: [Conociendo Excel y Entrando Datos (2 horas)](https://github.com/mauricioge/excel/blob/main/modulo1.md)
 - **Familiarizándose con la Interfaz de Excel (45 min)**
-  + La Cinta de Opciones: Pestañas, grupos y comandos.
+  + La Cinta de Opciones: Pestañas, grupos y comandos
   + La Barra de Acceso Rápido y la Barra de Título.
   + La Barra de Fórmulas: ¿Qué es y para qué sirve?
   + La Barra de Estado
